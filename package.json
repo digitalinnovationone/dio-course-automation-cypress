@@ -1,0 +1,22 @@
+{
+  "name": "dio-course-automation-cypress",
+  "version": "1.0.0",
+  "description": "Repositório que contém projeto base para curso de cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalinnovationone/dio-course-automation-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalinnovationone/dio-course-automation-cypress/issues"
+  },
+  "homepage": "https://github.com/digitalinnovationone/dio-course-automation-cypress#readme",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  }
+}
